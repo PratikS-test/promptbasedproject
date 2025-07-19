@@ -18,3 +18,6 @@ This project is a Maven-based Java Selenium automation framework.
 - Selenium WebDriver
 - TestNG
 - WebDriverManager
+
+# promptbasedproject
+First V1 of Github Co Pilot Prompt based project using GPT 4.1
