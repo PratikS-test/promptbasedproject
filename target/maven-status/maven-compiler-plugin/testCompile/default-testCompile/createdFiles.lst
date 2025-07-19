@@ -1,0 +1,4 @@
+com/selenium/test/tests/AmazonAddToCartTest.class
+com/selenium/test/utils/TestVerifications.class
+com/selenium/test/data/TestData.class
+com/selenium/test/tests/TestAutomationPracticePageTest.class
